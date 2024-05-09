@@ -1,0 +1,28 @@
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.exe
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\refint\CalcularNumerosSumaProducto.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\CuatroNumerosSumaProducto\CuatroNumerosSumaProducto\obj\Debug\net8.0\ref\CalcularNumerosSumaProducto.dll
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.exe
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.dll
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\bin\Debug\net8.0\CalcularNumerosSumaProducto.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.dll
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\refint\CalcularNumerosSumaProducto.dll
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\CalcularNumerosSumaProducto.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\CUATRONUMEROSSUMAPRODUCTO\CuatroNumerosSumaProducto\obj\Debug\net8.0\ref\CalcularNumerosSumaProducto.dll
